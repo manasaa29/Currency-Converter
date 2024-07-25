@@ -1,8 +1,8 @@
-# Prabhat's Currency Converter - TECHNOHACKS
+# Currency Converter - TECHNOHACKS
 
 Currency Converter at TechnoHacks
 
-# Prabhat Sharma
+
 
 Hello connections,
 
@@ -81,4 +81,4 @@ Additionally, remember to keep your API key secure and avoid sharing it publicly
 
 Thank You!!!
 
-- Prabhat Sharma
+
